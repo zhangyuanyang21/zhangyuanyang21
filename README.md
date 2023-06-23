@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - - 👯 I'm good at work with python. C++ / Java can work well.
 - - 📫 Contact: guanzhouk@gmail.com or guanzhouk@bjtu.edu.cn
 [![MyStats](https://github-readme-stats.vercel.app/api?username=Guanzhou-Ke)]()
-![MyStats](https://github-stats.ubrong.com/api?username=zhangyuanyang21&show_icons=true&theme=tokyonight)
+![MyStats](https://github-stats.ubrong.com/api?username=zhangyuanyang21&show_icons=true)

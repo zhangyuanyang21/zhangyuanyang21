@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I am currently pursuing the master degree at Yantai University.
-- 🔭 My research interests include multi-view clustering and deep clustering.
+- 🔭 My research interests include deep multi-view clustering and computer vision.
 - 👯 In my spare time, I enjoy playing basketball with my classmates.
 - 📫 Contact: zhangyuanyang922@gmail.com
     

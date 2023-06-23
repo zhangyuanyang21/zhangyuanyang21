@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- - 🌱 I’m a PhD student at BJTU who focus on Multimodality Learning and Deep Learning.
-- - 👯 I'm good at work with python. C++ / Java can work well.
-- - 📫 Contact: guanzhouk@gmail.com or guanzhouk@bjtu.edu.cn
-[![MyStats](https://github-readme-stats.vercel.app/api?username=Guanzhou-Ke)]()
+- - 🌱 I am currently pursuing the master degree at Yantai University.
+- - 🔭 My research interests include machine learning and computer vision, especially on multi-view clustering and deep clustering.
+- - 👯 In my spare time, I enjoy playing basketball with my classmates.
+- - 📫 Contact: zhangyuanyang922@gmail.com
 ![MyStats](https://github-stats.ubrong.com/api?username=zhangyuanyang21&show_icons=true)

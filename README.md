@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am currently pursuing the master degree at Yantai University.
 - 🔭 My research interests include deep multi-view clustering and computer vision.
-- 👯 In my spare time, I enjoy playing basketball with my classmates.
+- 👯 In my spare time, I enjoy playing basketball with my friends.
 - 📫 Contact: zhangyuanyang922@gmail.com
 ## ⚡ GitHub Stats    
 ![MyStats](https://github-stats.ubrong.com/api?username=zhangyuanyang21&show_icons=true)
